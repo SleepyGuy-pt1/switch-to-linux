@@ -1,0 +1,101 @@
+Here are the Linux Distro download websites based on categories so you can install the ISO and install Linux, however, you do need 3 things:
+
+1: USB Flash Drive.
+
+2: Tool that helps you create an OS installer (I prefer/recommend BalenaEtcher).
+
+3: ISO file for the OS you want (already mentioned).
+
+
+----- DONT RECOMEND -----
+
+Slackware: https://mirrors.slackware.com/slackware/slackware-iso/
+
+Gentoo: https://www.gentoo.org/downloads/
+
+Arch Linux: https://archlinux.org/download/
+
+LFS (Linux From Scratch): https://www.linuxfromscratch.org/
+
+------------------------------------------------------------------
+
+----- RECOMMENDED FOR BEGINNERS -----
+
+Linux Mint: https://linuxmint.com/download.php
+
+Ubuntu: https://ubuntu.com/download/desktop
+
+ZorinOS: https://zorin.com/os/
+
+Lubuntu: https://lubuntu.me/downloads/
+
+ElementryOS: https://elementary.io/#         (Just make sure to type $0 if you dont wanna pay anything to ElementryOS and just get the ISO file).
+
+----------------------------------------------
+
+
+
+----- RECOMMENDED FOR DEVS/POWER USERS -----
+
+Debian: https://www.debian.org/distrib/
+
+Fedora: https://fedoraproject.org/
+
+OpenSUSE Tumbleweed: https://get.opensuse.org/tumbleweed/
+
+OpenSUSE Leap: https://get.opensuse.org/leap/16.0/
+
+NixOS: https://nixos.org/download/
+
+RHEL (Red Hat Enterprise Linux): https://developers.redhat.com/products/rhel/download#getredhatenterpriselinux7163
+
+CentOS Stream: https://www.centos.org/download/
+
+Void Linux: https://voidlinux.org/
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+----- RECOMMENDED FOR GAMERS -----
+
+Nobara: https://nobaraproject.org/download.html
+
+Bazzite: https://bazzite.gg/
+
+Pop!_OS: https://system76.com/pop/download/?srsltid=AfmBOooiU4gXPbsOVbbooK2HmkaQqs3fKGzGjuEIiCZ2jcnOSEzCgaAK
+
+CachyOS: https://cachyos.org/
+
+Garuda Linux: https://garudalinux.org/
+
+-------------------------------------------------------------------------------------------------------------------
+
+BalenaEtcher: https://etcher.balena.io/
+
+BalenaEtcher is mandatory if you wanna install a Linux Distro.
+
+
+Heres how to install Linux:
+
+1: Pick a linux distro and then install the ISO (I already provided the download links).
+
+2: Once the ISO finishes installing, install balena etcher (already provided the download link).
+
+3: And then, get an empty USB drive (or just format it), and plug it into your computer.
+
+4: In the balena etcher menu, select your desired ISO file, and then select your USB drive, and then click Flash.
+
+5: Just wait for everything to finish and then once its done, eject the USB flash drive and then unplug it.
+
+6: Disable secure boot after that (by going to UEFI firmware settings, but if your computer uses BIOS, theres no need to).
+
+7: And then, Go to the boot menu and then select your USB drive and there you go!
+
+Dont panic if you see GRUB bootloader, just press enter on the first option (which is often the name of the distro).
+
+Also, dont panic if you see a bunch of green OKs or service scripts, If you do see them, its actually a very good sign, it proves that your system is working well,
+if you didnt see the logs, it wouldve been a really bad thing.
+
+Linux usually doesnt go well with Nvidia drivers/GPU, it goes very well with Intel/AMD though, just use Nouveou/NVK drivers if you dont want to see a blinking cursor the next boot. (NVK drivers is an open source project that try to make your Nvidia GPU actually work, when installing NVK, its usually impossible to end up with a black screen and a blinking cursor since NVK is open source and it can always be fixed by devs).
+
+Also, keep secure boot disabled, because MOK will annoy you alot, and I dealt with it, trust me it was a pain.

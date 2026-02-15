@@ -1,0 +1,37 @@
+The reason why people even have windows installed is because the software support is really high, but you can literally use Linux without any issues with lack of software, here are the popular apps/tools that are available on Linux:
+
+Browsers: Firefox, Coogle Chrome, Brave, Chromium, Edge (dont recommend though), Opera and many more.
+
+Game Engines (for game dev): Unity, Godot, Unreal Engine, Box2D (but technically its a physics engine, not a full fledged game engine), Defold, Unigine and many more.
+
+Video Viewers: VLC, MPV, Clapper, Parole Media Player, Pragha, and many more.
+
+Text/Code Editors: Vim, Neovim, Helix, VS code, VS Codium, Emacs, Jetbrain IDEs, Android Studio, Geany, Sublime text, Nano and many more.
+
+Terminals: Bash, Fish, Zsh, Xonsh, Sh and many more.
+
+Office Work: Libreoffice, thunderbird (for sending/reciving emails), and more.
+
+Gaming: Steam (with proton), Lutris, Sober (for roblox), Wine for gaming compatibilty layer and more.
+
+Video Recording: SimpleScreenRecorder, OBS Studio, and more.
+
+Photo Editing/Graphics: GIMP (for image editing), Inkscape (for vector graphics), Krita, Blender (added it as a bonus, but its used for sculpting, animations, 3D modeling, etc), and more.
+
+System Monitoring: HTOP, NVTOP (for monitoring GPU/integraded graphics), IFTOP (for monitoring network), BTOP (for a more cleaner design of HTOP), and many more.
+
+Communication/Music: Discord, Spotify (for music), Zoom, Telegram, and many more.
+
+Desktops: XFCE, Cinnamon, KDE Plasma, GNOME, MATE, LXQT, and many more (Desktops arent apps, but theyre worth mentioning).
+
+Dev Tools: Git, Docker, Github and many more.
+
+Compilers: GCC (which covers C++, C, Fortran, Go-lang and Ada), Valgrind any many more
+
+Assemblers: NASM, YASM, GAS, and many more.
+
+Video Editors: DaVinci Resolve, Shotcut, Olive, Kdenlive, OpenShot, Flowblade, Lightworks, and more.
+
+Games: Minecraft, CS2, Baldi's Basics (remastered and plus), slime rancher, hollow knight (also silksong), Baldur's Gate 3, Agar.io, Undertale, War thunder, Dota 2, Terraria, Rocket League, Hello Neigbor, Hytale, Dying Light, Rust, Garrys mod, TF2, The Witcher 3, Cyberpunk 2077, and many many more.
+
+Virtual Machines: Oracle VirtualBox, QEMU, VMWare, and more.

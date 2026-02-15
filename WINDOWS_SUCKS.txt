@@ -1,0 +1,19 @@
+Linux is way more superior compared to windows, and many people would agree too, heres why Windows is trash:
+
+1: Bloatware: Windows 11 is filled with AI/Telemetry/useless applications that take up half of your RAM, dont even get me started on services like windows defender stuff, sure, its for secuirty, but windows defender is the worst antivirus to ever exist so theres no point.
+
+2: The Requirements: Dont even get me started on this, The latest version of Gentoo linux can boot in 512 MB RAM with 105 MB of storage (tested in oracle Virtualbox), but windows 11? You need 4 GB of RAM MINIMUM, also 64 GB of storage minimum, it requires UEFI firmware, secure boot and TPM 2.0 all enabled, and many more dumb requirements, even the latest version of Pop!_OS Linux only needs 16 GB storage minimum.
+
+3: The Closed Source Ecosystem: All windows versions are closed source, meaning you cant access their code, modify it, or distribute it, It's a really depressing world, while Linux is completely open source and completely free, while windows is free to install, the activation keys usually cost around 100$-150$+.
+
+4: Horrible Hardware Usage: Windows usually takes up more than half of your RAM on idle, thats insane, listen, my laptop/computer has 16 GB of RAM, windows used 50%+ of it (I used to run Windows 11 on it, but now switched a few months ago), when I installed Fedora Linux on it (specifically XFCE Desktop), I gained 6 GB-6.5GB of RAM back, it idles on 1.5 GB RAM now which is insane, my fans usually stay way quieter than when I had windows, Even the CPU used to go around 10%-20% usage on idle for no reason on windows 11,
+but its 0.5%-1% on idle ever since I installed Fedora Linux.
+
+5: Security: In every single windows version, everything runs as root access, if you dont know, if something has root access, they theoritcally can control the kernel and the system, Linux runs every application as user (but theres usually a seperate root account to run root based commands in the terminal),
+windows is just terrible for security, it literally gives whatever application full permissions too, like web cam, mic and more.
+
+6: Telemetry: Windows loves to spy on you, while you can disable some telemtry stuff, your almost always gonna get spied on by Windows/Microsoft.
+
+7: Forced updates: Windows forces you to update which if your doing important work, can be dangerous.
+
+8: BSODs: If youve ever used windows, youve probably witnessed a crash atleast once, just imagine crashing in the middle of working in a job... 

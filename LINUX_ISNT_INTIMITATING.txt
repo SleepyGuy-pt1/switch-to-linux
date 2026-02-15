@@ -1,0 +1,24 @@
+Many people are afraid of the Terminal/Command line, I get that, but the command line isnt actually mandatory, you can install applications, browse the web, use the GUI, all without a terminal.
+There are so many beginner friendly distros out there, I will list the easiest ones to use to the hardest ones to use:
+
+--- Easy ---
+Ubuntu (The most documented and popular Linux distro, if you have an issue, you can look at forums and people literally fixed the bug or issue).
+Linux Mint (The most beginner friendly distro in my opinion, but also can be Ubuntu).
+ZorinOS (built to literally make the transition easier, it tries to copy windows desktop but in a good way).
+Pop!_OS (Gaming, but you can use it as a daily driver, works very well with Nvidia GPUs).
+Bazzite (built for gaming).
+Nobara (also for gaming, but also can be used as a daily driver, so can bazzite and every distro listed in Easy).
+Fedora (built for software devs and also people who wanna daily drive, its a bleeding edge distro meaning you get the latest stuff before many distros).
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--- Medium ---
+Debian (its not that hard to setup, but it usually requires you to google stuff, after that, it isnt really a pain to setup).
+OpenSUSE (can be a bit tricky but not really that hard to setup, usually used by power users or devs).
+------------------------------------------------------------------------------------------------------------------------------------
+
+--- Absolute Hardest ---
+Gentoo (if your just a beginner and wanna daily drive, never use this distro, just dont).
+Arch (same goes for arch).
+LFS (literally the hardest one here).
+Slackware (same as all of the distros in Absolute Hardest).
+-------------------------------------------------------------------

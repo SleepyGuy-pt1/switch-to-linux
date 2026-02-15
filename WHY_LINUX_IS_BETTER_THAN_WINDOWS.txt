@@ -1,0 +1,24 @@
+Heres why Linux is miles better than Windows:
+
+1: Lightweight: Linux is super lightweight compared to windows, you can even revive hardware using linux, just pick a super lightweight distro like Tiny core Linux or Puppy Linux and the hardware will feels way faster than if it was on windows.
+
+2: Open Source Ecosystem: Linux is completely open source/free, meaning if theres a bug on linux, devs around the world can patch the bug since Linux is open source, and since its free, you dont need to pay anything!
+
+3: Customization: You can customize Linux as much as you want, whether its via terminal or GUI, windows often isnt a great choice for customization, which makes Linux way better if you like spending time customizing your desktop, wallpaper, UI/UX, window manager, or anything in general.
+
+4: Hundreds of Flavors: People say that the fact that Linux has alot of distros isnt good because you might get confused, but trust me, the hundreds of distros is actually a good thing, it allows for even more customizability and personailty, and every single distro does something different from the other.
+
+5: Security: This is no doubt that Linux is the best when it comes to security, SELinux blocks a malicious application better than any OS could ever do, KVM is also a thing which stands for kernel virtual machine, and its super useful when running virtual machines, also, usually apps/tools/games/anything in userspace (of course only the system),  unless you give it root access yourself
+and its generally never recommended to give an app or anything full root access.
+
+6: Linux is small: Linux is still very small in desktop market share, we need your help to come to linux so we can beat the greedy corporations, these corps are ruling our lives, we obviously dont want that.
+
+7: Hardware Usage: Linux is super efficent at controlling the CPU, RAM, Storage and many more, if you read my WINDOWS_SUCKS.md file, you'll see why.
+
+8: Linux runs the world: theres barely a supercomputer that runs windows, wanna know what Linux runs? it runs most routers, TVs, Supercomputers, Servers/Web servers, cloud servers, kiosks, airplane screens, ATMs, and many more operating systems such as: WebOS, ChromeOS, Android and more.
+
+9: No forced updates: Linux barely forces you to update your system unlike windows, which can be an absolute clutch when your doing important work. 
+
+10: No crashes: Linux usually crashes less than windows (however, if you use the hard distros, then linux will always crash/kernel panic).
+
+11: Privacy: Linux doesnt spy on you and never does, since its open source, even if there is code that spies on you (which is impossible), someone probably remove the code.
